@@ -1,4 +1,4 @@
-#Dino
+# Dino
 
 This project uses a neuroevolutionary algorithm to self-teach how to play the chrome dino game.
 
